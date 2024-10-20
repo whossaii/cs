@@ -45,3 +45,8 @@ Lösung - Für alle x:
 19: GOTO 16
 20: STOP
 
+
+# number 3
+
+normal algorithm is_odd
+fast = is_odd2
