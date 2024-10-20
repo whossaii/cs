@@ -20,7 +20,7 @@ Konzept für ein x:
 10: STOP
 
 _____________________________
-Für alle x:
+Lösung - Für alle x:
 
 0: R0 <- 0 // Ergebnis
 1: R1 <- x0
