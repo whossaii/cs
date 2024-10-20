@@ -17,5 +17,31 @@ Idea: x/5 = Solange -5 bis null rauskommt, andere var währendesen pro durchgang
 9: R0 <- R3
 10: STOP
 
+_____________________________
+For all x:
 
+0: R0 <- 0 // Ergebnis
+1: R1 <- x0
+2: R2 <- x1
+3: R3 <- x2
+4: R4 <- x3
+5: R5 <- x4
+6: R6 <- 0 // Temp1 = Index
+7: R7 <- 0 // Temp2 = Zwischenergebnis
+8: R8 <- 1
+9: R9 <- 5
+10: R10 <- 0
+
+11: IF R6 > 5 GOTO 22
+13: R6 <- R6 + R8 // Temp = aktueller Index
+13: IF RR6 > 4 GOTO 16
+14: R0 <- R0 + R10
+15: GOTO 11
+16: IF RR6 = 0 GOTO 11
+17: RR6 <- RR6 - R9
+18: R7 <- R7 + R8
+19: GOTO 16
+20: R0 <- R0 + R6
+21: GOTO 11
+22: STOP
 
