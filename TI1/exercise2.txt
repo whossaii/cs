@@ -5,6 +5,8 @@ Final Situation:
 Auxiliary register: [R2] = 0 [R3] = 1 [4] = 5
 Idea: x/5 = Solange -5 bis null rauskommt, andere var währendesen pro durchgang +1 
 
+Konzept für ein x:
+
 0: R1 <- x
 1: R2 <- 0 
 2: R3 <- 1
@@ -18,7 +20,7 @@ Idea: x/5 = Solange -5 bis null rauskommt, andere var währendesen pro durchgang
 10: STOP
 
 _____________________________
-For all x:
+Für alle x:
 
 0: R0 <- 0 // Ergebnis
 1: R1 <- x0
