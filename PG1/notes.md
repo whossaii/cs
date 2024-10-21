@@ -14,6 +14,7 @@
 - Theoriefragen können kommen z.B. zu was macht #include
   oder was macht ein Compiler ...
 - Definition (2-30) nicht relevant
+- Speicherung (2-56) Gleitpunktzahlen nicht relevant
 
 ## Themen
 
