@@ -1,18 +1,19 @@
 # C Notizen
 
 - [C Notizen](#c-notizen)
-  - [Allgmein](#allgmein)
+  - [Allgemein](#allgemein)
     - [Klausur:](#klausur)
   - [Themen](#themen)
     - [Formatierungszeichen](#formatierungszeichen)
     - [Formatspezifizierer](#formatspezifizierer)
 
-## Allgmein
+## Allgemein
 
 ### Klausur:
 
 - Theoriefragen können kommen z.B. zu was macht #include
   oder was macht ein Compiler ...
+- Definition (2-30) nicht relevant
 
 ## Themen
 
