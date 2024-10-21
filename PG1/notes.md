@@ -14,9 +14,8 @@
 | Zeichen | Beschreibung            |
 |---------|-------------------------|
 | %c      | Zeichen                 |
-| %d      | Dezimalzahl (int)       |
-| %f      | Dezimalzahl (float)     |
-| %i      | Dezimalzahl (int)       |
-| %p      | Zeigeradresse           |
 | %s      | Zeichenkette            |
+| %d / %i  | Dezimalzahl (int)       |
+| %f/%n.nf | Dezimalzahl (float)     |
 | %u      | Unsigned Dezimalzahl    |
+| %p      | Zeigeradresse           |
