@@ -1,5 +1,15 @@
 # C Notizen
 
+```
+## Table of Contents
+
+- [Allgmein](#allgmein)
+    - [Klausur](#klausur)
+- [Themen](#themen)
+    - [Formatierungszeichen](#formatierungszeichen)
+    - [Formatspezifizierer](#formatspezifizierer)
+```
+
 ## Allgmein
 
 ### Klausur:
