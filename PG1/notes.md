@@ -25,7 +25,7 @@
 | %c      | Zeichen                 |
 | %s      | Zeichenkette            |
 | %d / %i  | Dezimalzahl (int)       |
-| %f / %.nf | Dezimalzahl (float)     |
+| %f / %.nf | Dezimalzahl (float) /formatiert |
 | %u      | Unsigned Dezimalzahl    |
 | %p      | Zeigeradresse           |
 
